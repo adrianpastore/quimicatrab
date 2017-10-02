@@ -1,0 +1,10 @@
+O Layout do Aplicativo, será a imagem da Logo e o Nome do Aplicativo, também contando com uma barra de navegação que contém 4 escolhas, "Home" que irá para a HomePage, "Sobre" que irá para a HomePage o levando para uma parte da pagina onde contém uma explicação da finalidade do aplicativo e do funcionamento, "Tabela P" que enviara o usuário para uma pagina onde contém uma Tabela Periodica com diversas funcionalidades e por final "Teste seus conhecimentos" onde quando clicada o usuário será enviado para um pagina com jogos para ver o que aprendeu durante sua visita ao WebSite. Isso será disponibilizado em todas paginas do Aplicativo.
+
+Na HomePage, temos um efeito slider do bootstrap, onde nesse efeito teremos algumas "pages" explicando em poucas palavras o que se pode fazer no aplicativo. Mais para baixo, teremos a aba da Parte "Sobre" do WebSite, onde nesta contém, duas explicações, uma é sobre a finalidade do Site e a outra é como ele funciona.
+
+Na Pagina "Tabela P." teremos uma Tabela Periódica, completa onde você poderá selecionar qualquer elemento, e este quando selecionado irá abrir uma janela que trará especificações químicas, imagens.
+
+Na Pagina “Teste seus conhecimentos” teremos uma explicação dos jogos, pontuações e timing, podendo escolher dois estilos de jogo, estes são “Perguntas e Respostas”, logo abaixo tendo um texto explicativo que dirá como tal, irá funcionar, e “Relacione as Reações Químicas” e que também logo abaixo terá um texto explicativo.
+Então se você clicar no Perguntas e Respostas, a página será modificada para um exercício onde você tem que responder entre algumas possibilidades, e a cada resposta sua você vai avançando de pergunta. Tendo no final o tempo gasto por você e a sua pontuação.
+E se clicar no “Relacione as Reações Quimicas”, a página será modificada para um exercício onde você tem que relacionar uma imagem de uma reação química entre algumas possibilidades dadas. E a cada resposta sua você vai avançando de questão. Tendo no final o tempo gasto por você e a sua pontuação.
+
